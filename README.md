@@ -6,6 +6,6 @@
        linkedIn - @nishikanth-lse
        instagram - @nishikanth_lse
 - 😄 Pronouns: He/Him
-- ⚡ Currently working on Websculpt as founder and ceo.
+- ⚡ Currently working on @Websculpt as founder and ceo.
 
 
