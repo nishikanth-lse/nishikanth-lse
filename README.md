@@ -1,7 +1,7 @@
-##Tech Developer
-- 📫 How to reach me though
-       linkedIn - @nishikanth-lse
-       instagram - @nishikanth_lse
-- 
+**Tech Developer**
+
+- 📫 *Reach me though* <br>
+       - linkedIn - @nishikanth-lse <br>
+       - instagram - @nishikanth_lse
 
 
