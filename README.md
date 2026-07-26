@@ -20,37 +20,31 @@
 ## Tech Stack:
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
-![C%23](https://img.shields.io/badge/-C%23-555?style=flat&logo=csharp)&nbsp;
-
+<img src="https://skillicons.dev/icons?i=ts,js,cs,c#" />
 ---
 
 ###  Frontend
 
-![React](https://img.shields.io/badge/-React-555?style=flat&logo=react)&nbsp;
+<img src="https://skillicons.dev/icons?i=react" />
 
 ---
 
 ###  Backend & Frameworks
 
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-555?style=flat&logo=.net)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
+<img src="https://skillicons.dev/icons?i=dotnet,nodedotjs" />
 
 ---
 
 ###  Databases
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-555?style=flat&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-555?style=flat&logo=supabase)&nbsp;
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 
 ---
 
 ###  Cloud & Deployment
 
-![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazonaws)&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" />
 
 ---
 
@@ -63,8 +57,8 @@
 
 ###  Tools
 
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ##  GitHub Activity Graph:
 
