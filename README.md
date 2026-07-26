@@ -43,13 +43,13 @@
 
 ###  Frontend
 
-<img src="https://skillicons.dev/icons?i=react, tailwind, materialui" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,materialui" />
 
 ---
 
 ###  Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs, nextjs" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,nextjs" />
 
 ---
 
