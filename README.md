@@ -17,6 +17,12 @@
 
 > Reach out to me at [nishikanth.uysc.001@gmail.com](mailto:nishikanth.uysc.001@gmail.com) for any open source projects.
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishikanth-lse/nishikanth-lse/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ## Tech Stack:
 ### Languages
 
