@@ -41,6 +41,8 @@
 
 ![Simulink](https://img.shields.io/badge/Simulink-FC6D26?style=for-the-badge)
 
+---
+
 ### CAD & FEA
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 
@@ -50,6 +52,7 @@
 
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge)
 
+---
 
 ### Electrical
 ![LTspice](https://img.shields.io/badge/LTspice-900000?style=for-the-badge)
@@ -58,6 +61,7 @@
 
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-F58220?style=for-the-badge&logo=autodesk&logoColor=white)
 
+---
 
 ## Tech Stack:
 ### Languages
