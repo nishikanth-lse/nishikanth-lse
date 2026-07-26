@@ -68,8 +68,10 @@
 
 ###  AI Development
 
-![Claude](https://img.shields.io/badge/-Claude-555?style=flat)&nbsp;
-![Cursor](https://img.shields.io/badge/-Cursor-555?style=flat)&nbsp;
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-6E40C9?style=for-the-badge)
 
 ---
 
