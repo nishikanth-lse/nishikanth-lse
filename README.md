@@ -62,7 +62,7 @@
 
 ###  Cloud & Deployment
 
-<img src="https://skillicons.dev/icons?i=aws, vercel" />
+<img src="https://skillicons.dev/icons?i=aws,vercel" />
 
 ---
 
