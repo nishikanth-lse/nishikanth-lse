@@ -103,3 +103,6 @@
 
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arch,vim,visualstudio" />
+
+### Leetcode: 
+<img src="https://leetcard.jacoblin.cool/nishikanthlse?theme=dark&ext=heatmap"/>
