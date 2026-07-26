@@ -36,12 +36,12 @@
 
 
 ## Engineering Stack:
-# Math
+### Math
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ![Simulink](https://img.shields.io/badge/Simulink-FC6D26?style=for-the-badge)
 
-# CAD & FEA
+### CAD & FEA
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
@@ -51,7 +51,7 @@
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge)
 
 
-# Electrical
+### Electrical
 ![LTspice](https://img.shields.io/badge/LTspice-900000?style=for-the-badge)
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
