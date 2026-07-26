@@ -41,7 +41,7 @@
 
 ![Simulink](https://img.shields.io/badge/Simulink-FC6D26?style=for-the-badge)
 
-# CAD 
+# CAD & FEA
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
