@@ -17,6 +17,24 @@
 
 > Reach out to me at [nishikanth.uysc.001@gmail.com](mailto:nishikanth.uysc.001@gmail.com) for any open source projects.
 
+
+##  GitHub Activity Graph:
+
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/nishikanth-lse#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=nishikanth-lse&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/nishikanth-lse#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=nishikanth-lse&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/nishikanth-lse#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishikanth-lse&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/nishikanth-lse#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishikanth-lse&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/nishikanth-lse#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishikanth-lse&theme=default"/></a><a href="https://github.com/nishikanth-lse#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishikanth-lse&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/nishikanth-lse#gh-light-mode-only"><img src="https://raw.githubusercontent.com/nishikanth-lse/nishikanth-lse/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/nishikanth-lse#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/nishikanth-lse/nishikanth-lse/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
+
+
 ## Engineering Stack:
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
@@ -79,19 +97,3 @@
 
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arch,vim,visualstudio" />
-
-##  GitHub Activity Graph:
-
-
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/nishikanth-lse#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=nishikanth-lse&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/nishikanth-lse#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=nishikanth-lse&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/nishikanth-lse#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishikanth-lse&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/nishikanth-lse#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishikanth-lse&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/nishikanth-lse#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishikanth-lse&theme=default"/></a><a href="https://github.com/nishikanth-lse#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishikanth-lse&theme=tokyonight"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/nishikanth-lse#gh-light-mode-only"><img src="https://raw.githubusercontent.com/nishikanth-lse/nishikanth-lse/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/nishikanth-lse#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/nishikanth-lse/nishikanth-lse/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-</table>
