@@ -105,4 +105,5 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arch,vim,visualstudio" />
 
 ### Leetcode: 
+<p><i>Started a few ago after real world projects, so it is kinda easy to solve harder problems</i></p>
 <img src="https://leetcard.jacoblin.cool/nishikanthlse?theme=dark&ext=heatmap"/>
